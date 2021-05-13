@@ -1,4 +1,4 @@
-!/usr/bin/env python
+#!/usr/bin/env python
 
 import boinc_path_config
 from Boinc.assimilator import *
